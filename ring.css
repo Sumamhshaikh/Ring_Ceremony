@@ -263,3 +263,7 @@ footer i{
         margin: 5px 0;
     }
 }
+@media only screen and (max-width:500px) {
+        .nav,.banner,.nav b,.menu,.text,.text h1,.and,.date,.venue,.venue img,#demo,.venue p,.venue p,.quote p{
+            width: 100%;
+        }
